@@ -16,7 +16,7 @@ Zikri Afnan
 🎮 My Fav Games Is League Of Legends Playing as Jungler And Mobile Legends Playing as Gold Lane 
 ```
 <hr>
-
+<hr>
 
 ## 🛠️ My Favorite Tools
 
