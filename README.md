@@ -5,7 +5,7 @@ Hi, I'm Zikri Afnan!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+Am+One;With+The+Wind+And+Sky;&center=true&width=400&height=50"></a>
 </p>
-<hr>
+
 <img align="left" src="https://avatars.githubusercontent.com/u/46262855?s=400&u=a773182b3d1d6857eb8c39d61f38d100c701b3cf&v=4" alt="zmafnan" width="320" />
 <hr>
 
