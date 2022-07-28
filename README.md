@@ -1,7 +1,11 @@
 <h1 align="center">
 Hi, I'm Zikri Afnan!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-
+    
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+Am+One;With+The+Wind+And+Sky;&center=true&width=400&height=50"></a>
+</p>
+<hr>
 <img align="left" src="https://avatars.githubusercontent.com/u/46262855?s=400&u=a773182b3d1d6857eb8c39d61f38d100c701b3cf&v=4" alt="zmafnan" width="320" />
 <hr>
 
@@ -13,7 +17,9 @@ Zikri Afnan
 🌟 Main languages: Java, HTML 
 ️👑 Product Owner Of https://blitz-card-maker.herokuapp.com/
 🚩 Interested in Formula 1 Racing 
-🎮 My Fav Games Is League Of Legends Playing as Jungler And Mobile Legends Playing as Gold Lane 
+🎮 My Fav Games Is 
+    1. League Of Legends Playing as Jungler 
+    2. Mobile Legends Playing as Gold Lane 
 ```
 <hr>
 <hr>
