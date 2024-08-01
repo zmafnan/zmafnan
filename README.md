@@ -13,12 +13,9 @@ Hi, I'm Zikri Afnan!
 Zikri Afnan
 -------------------------
 💻 I am Zikri Afnan
-📚 I am currently studying in Computer Science from General Achmad Yani University 
-🌟 Main languages: Java, Python
+📚 I have bachelor degree Computer Science from General Achmad Yani University 
+🌟 Main languages: Python
 🚩 Interested in Formula 1 Racing 
-🎮 My Fav Games Is 
-    1. League Of Legends Playing as Jungler 
-    2. Mobile Legends Playing as Gold Lane 
 ```
 <hr>
 <hr>
