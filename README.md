@@ -1,70 +1,79 @@
-<h1 align="center">
-Hi, I'm Zikri Afnan!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-    
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+Am+One;With+The+Wind+And+Sky;&center=true&width=400&height=50"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,21,25,27,30&height=180&section=header&text=Hi,%20I'm%20Zikri%20Afnan!%20👋&fontSize=42&fontColor=fff&animation=twinkling" alt="Zikri Afnan Banner" />
 </p>
 
-<img align="left" src="https://avatars.githubusercontent.com/u/46262855?s=400&u=a773182b3d1d6857eb8c39d61f38d100c701b3cf&v=4" alt="zmafnan" width="320" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+%26+ML+Engineer;Python+%26+JavaScript+Enthusiast;Formula+1+Fanatic" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zikri-afnan-7a67b1198/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zikriafnan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/zmafnan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/afnan_zikri" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://zmafnan.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zmafnan&color=bf2f38&style=flat-square" alt="Profile Views" />
+</p>
+
 <hr>
 
-```
-Zikri Afnan
--------------------------
-💻 I am Zikri Afnan
-📚 I have bachelor degree Computer Science from General Achmad Yani University 
-🌟 Main languages: Python
-🚩 Interested in Formula 1 Racing 
-```
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmafnan&layout=compact&theme=tokyonight&langs_count=7&hide_border=true" width="360px" alt="Top Languages" />
+
+### 💫 About Me
+
+- 🎓 **Education:** Graduated with a Bachelor's Degree in Computer Science from **General Achmad Yani University** (Unjani).
+- 💻 **Profession:** **Full Stack & Machine Learning Engineer** who loves building intelligent systems and clean web interfaces.
+- ⚡ **Specialties:** Python-centric ML development, combined with full-stack capabilities in JS/PHP framework ecosystems.
+- 🏁 **Interests:** Massive fan of **Formula 1 Racing** (strategizing and looking at telemetry/data is half the fun!).
+- 🔭 **Current Goal:** Working on advanced ML projects and refining full-stack development skills.
+
+<br clear="right">
+
 <hr>
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Tools & Technologies |
+| --- | --- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
+| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white) |
+| **Cloud & Databases** | ![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white) |
+| **Software & Dev Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe CC](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) |
+
 <hr>
 
-## 🛠️ My Favorite Tools
+### 📊 GitHub Stats & Metrics
 
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"</a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-
-### 🧰 Frameworks
-
-<p>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-    <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
-    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-    <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"></a>
-    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
+<p align="center">
+  <a href="https://github.com/zmafnan">
+    <img src="https://github-readme-stats.vercel.app/api?username=zmafnan&show_icons=true&theme=tokyonight&count_private=true" alt="Zikri's GitHub Stats" height="195px" />
+  </a>
+  <a href="https://github.com/zmafnan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmafnan&theme=tokyonight" alt="Zikri's Streak Stats" height="195px" />
+  </a>
 </p>
 
-### 🗄️ VM & Databases & Cloud Hosting
+<hr>
 
-<p>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-    <a href="#"><img alt="Google Cloud" src ="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-</p>
+### 🏎️ Formula 1 Corner
 
-### 💻 Software and Tools
+> *"If you no longer go for a gap that exists, you are no longer a racing driver."*  
+> — **Ayrton Senna**
 
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="JIRA" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
+As a passionate fan of motorsport and engineering, I love analyzing the data-driven world of F1, where software, strategy, and pure speed collide.
 
-</p>
